@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.logo img {
+  width: 175px;
+  display: block;
+  margin: 0 auto;
+}
+
+.logo {
+  padding: 35px;
+  border-bottom: 1px solid #092424;
+}
+
+.product {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid #092424;
+  border-radius: 10px;
+}
